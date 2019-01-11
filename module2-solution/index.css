@@ -18,9 +18,9 @@ div#container {
     height: 170px;
 	font-family: Helvetica;
 	border: 2px solid black;
-    margin-right: auto;
     margin-left: auto;
-    margin-top: 15px;
+    margin-right: auto;
+    margin-top: 20px;
 	padding: 35px 15px 15px 15px;
 }
 
